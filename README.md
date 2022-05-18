@@ -18,13 +18,13 @@ Skills: C, SDL2, Makefile, Game, Terminal, Unix
 
 ## Screenshots of the game
 
-<a href="https://github.com/dufrane/end_game" target="_blank">
-  <img src="https://github.com/dufrane/end_game/blob/master/.git_images/screenshot1.png?raw=true">
+<a href="https://github.com/dufrane/endGame" target="_blank">
+  <img src="https://github.com/dufrane/endGame/blob/master/.git_images/screenshot1.png?raw=true">
 </a>
-<a href="https://github.com/dufrane/end_game" target="_blank">
-  <img src="https://github.com/dufrane/end_game/blob/master/.git_images/screenshot2.png?raw=true">
+<a href="https://github.com/dufrane/endGame" target="_blank">
+  <img src="https://github.com/dufrane/endGame/blob/master/.git_images/screenshot2.png?raw=true">
 </a>
-<a href="https://github.com/dufrane/end_game" target="_blank">
-  <img src="https://github.com/dufrane/end_game/blob/master/.git_images/screenshot3.png?raw=true">
+<a href="https://github.com/dufrane/endGame" target="_blank">
+  <img src="https://github.com/dufrane/endGame/blob/master/.git_images/screenshot3.png?raw=true">
 </a>
 
