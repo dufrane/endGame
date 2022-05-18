@@ -21,7 +21,7 @@ Skills: C, SDL2, Makefile, Game, Terminal, Unix
 
 
 <a href="https://github.com/dufrane/endGame" target="_blank">
-  <img src="https://github.com/dufrane/endGame/blob/master/.git_images/screenshot1.png?raw=true">
+  <img src="https://github.com/dufrane/endGame/blob/badb6f1429f2ec504307948a05d7e36fd9426f35/.git_images/screenshot1.png?raw=true">
 </a>
 <!--<a href="https://github.com/dufrane/endGame" target="_blank">-->
 <!--  <img src="https://github.com/dufrane/endGame/.git_images/screenshot2.png?raw=true">-->
@@ -29,4 +29,5 @@ Skills: C, SDL2, Makefile, Game, Terminal, Unix
 <!--<a href="https://github.com/dufrane/endGame" target="_blank">-->
 <!--  <img src="https://github.com/dufrane/endGame/.git_images/screenshot3.png?raw=true">-->
 <!--</a>-->
+
 
